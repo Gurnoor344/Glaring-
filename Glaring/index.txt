@@ -1,0 +1,212 @@
+Desinic - Get Best UI Design
+
+
+
+#......... HEADER ..........#
+
+Desinic
+
+Desinic
+
+aria-labe = Close Menu
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Services
+Features
+Blog
+Contact Us
+
+<ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
+Get A Quote
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+
+
+
+#......... HERO ..........#
+WELCOME
+Digital Product For Buisness
+Ensuring the best return on investment for your bespoke SEO campaign requirement.
+Learn More
+
+
+
+
+#......... ABOUT ..........#
+Why Our Agency
+BOOSTS YOUR WEBSITE TRAFFIC!!!!
+We are passionate about our work. Our designers stay ahead of the curve to provide engaging and user-friendly 
+website designs to make your buisness stand out.
+
+Our developers are committed to maintaining the highest 
+web standards so that your site will withstand the test of time.we care about your buisness which is why we work with you.
+
+132 Satisfied Clients
+107 Project Lunched
+102 Awards Win
+
+#......... SERVICE ..........#
+
+Our Speciallization
+
+Our Specialization
+
+<h3 class="h3 title">Creative Approach</h3>
+<p class="text">
+
+People don't buy what you do, they buy why you do it.
+Being creative is essential in producing an effective and memorable advertisement. 
+                   
+</p>
+ <h3 class="h3 title">Guranteed Success</h3>
+
+                <p class="text">
+                  Effective content marketing is the cornerstone of a successful digital marketing strategy. 
+                  This includes valuable and engaging content .
+                </p>
+
+<h3 class="h3 title">SEO Optimization</h3>
+
+                <p class="text">
+                  Easily findable, more relevant and popular towards user search queries, and as a consequence, search engines rank them better.
+                </p>
+
+
+
+#......... FEATURES ..........#
+
+Our Features
+
+<h2 class="h2 section-title underline">Our Features</h2>
+
+<h3 class="h3 title">Idea & Analysis</h3>
+
+                  <p class="text">
+                    Idea & analyze target the audience and determine the values, beliefs, trends, patterns and attitudes of this audience.
+                  </p>
+                </div>
+
+<h3 class="h3 title">Designing</h3>
+
+                  <p class="text">
+                    A brand's visual identity, make marketing materials visually appealing, generate leads and sales.
+                  </p>
+
+<h3 class="h3 title">Development</h3>
+
+                  <p class="text">
+                    Creating roadmaps and action plans to guide business owners and marketers in achieving their brand objectives.
+                  </p>
+                </div>
+
+<div class="content">
+                  <h3 class="h3 title">Testing & Lunching</h3>
+
+                  <p class="text">
+                    Experiment where marketers create variations of a plans to determine which performs the best against defined marketing objectives.
+                  </p>
+                </div>
+
+
+
+
+#......... BLOG ..........#
+
+Our Blog & News
+
+ Express Yourself..
+                    </a>
+                  </h3>
+
+                  <p class="text">
+Ability to focus on what is happening in our minds and use our imagination by creating something that perhaps represents who we are. 
+                    
+                  </p>
+
+
+Disseminating Research More Widely..
+                    </a>
+                  </h3>
+
+                  <p class="text">
+The process of sharing research findings with stakeholders and wider audiences.Uptake and use of research findings is crucial for the success and sustainability.
+                  </p>
+
+
+Networking & Collaborating..
+                    </a>
+                  </h3>
+
+                  <p class="text">
+Person-to-person business model where you take your offline business to online mode and expand your current digital presence.
+                  </p>
+
+
+Finding New Audience And Opportunities.
+                    </a>
+                  </h3>
+
+                  <p class="text">
+Affinity audiences are lifestyle and interest profiles based on the user's browsing behavior.The opening up of new Opportunities associated with the development.
+
+
+
+
+
+#......... FOOTER ..........#
+
+Glaring
+
+ It’s a battle to get noticed online amidst the noise and crowds.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+
+Our links
+
+Home
+About Us
+Services
+Team
+Blog
+
+Our Services
+
+Strategy & Research
+Web Development
+Web Solution
+Digital Marketing
+App Design
+
+Other links
+
+FAQ
+Portfolio
+Privacy Policy
+Terms & Conditions
+Support
+
+Contact Us
+
+<ion-icon name="call"></ion-icon>
++91 9464xxxxxx
++91 7658xxxxxx
+<ion-icon name="mail"></ion-icon>
+abc1@.com
+
+<ion-icon name="location"></ion-icon>
+Punjab,India
+&copy; 2023.All Right Reserved
+
+
+
+
+
+#......... GO TO TOP ..........#
+
+aria-label = Go To Top
+<ion-icon name="arrow-up-outline"></ion-icon>
